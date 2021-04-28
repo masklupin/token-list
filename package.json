@@ -1,0 +1,37 @@
+{
+  "name": "pentagonswap-token-list",
+  "version": "1.0.0",
+  "description": "◦ The BallSwap default token list",
+  "main": "build/pentagonswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/pentagonswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/pentagonswap-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentagonswap/pentagonswap-token-list.git"
+  },
+  "keywords": [
+    "pentagonswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Moody Salem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pentagonswap/pentagonswap-token-list/issues"
+  },
+  "homepage": "https://github.com/pentagonswap/pentagonswap-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

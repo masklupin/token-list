@@ -1,0 +1,221 @@
+{
+  "name": "PentagonSwap Default List",
+  "timestamp": "2021-04-28T13:54:47.528Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/coins/WHT",
+  "keywords": [
+    "pentagonswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Berry",
+      "symbol": "BRY",
+      "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/bry.png"
+    },
+    {
+      "name": "Arpa Token",
+      "symbol": "ARPA",
+      "address": "0x5A6B72Dd6209A770aE1C02a7A2E1900636072d0b",
+      "chainId": 128,
+      "decimals": 8
+    },
+    {
+      "name": "Bitcoin Cash Token",
+      "symbol": "BCH",
+      "address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/BCH.png"
+    },
+    {
+      "name": "Beacon ETH Token",
+      "symbol": "BETH",
+      "address": "0xB6F4c418514dd4680F76d5caa3bB42dB4A893aCb",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/beth.png"
+    },
+    {
+      "name": "Compound Finance",
+      "symbol": "COMP",
+      "address": "0xCe0A5CA134fb59402B723412994B30E02f083842",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "CRYPTO.COM Token",
+      "symbol": "CRO",
+      "address": "0xF7e1E39e239C5A920849f435F66097D2e412859e",
+      "chainId": 128,
+      "decimals": 8
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/DAI.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Ftx Token",
+      "symbol": "FTT",
+      "address": "0xC7f7a54892B78b5c812c58d9Df8035FcE9F4D445",
+      "chainId": 128,
+      "decimals": 8
+    },
+    {
+      "name": "HBTC Token",
+      "symbol": "HBTC",
+      "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/HBTC.png"
+    },
+    {
+      "name": "HECO Polkadot Token",
+      "symbol": "HDOT",
+      "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Filecoin",
+      "symbol": "HFIL",
+      "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Huobi Pool Token",
+      "symbol": "HPT",
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "HUSD Token",
+      "symbol": "HUSD",
+      "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "HECO Tezos Token",
+      "symbol": "HXTZ",
+      "address": "0x45e97daD828AD735af1dF0473fc2735F0Fd5330c",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Litecoin Token",
+      "symbol": "LTC",
+      "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/LTC.png"
+    },
+    {
+      "name": "REN",
+      "symbol": "REN",
+      "address": "0x212208bcc81F3a2D0188afF76A2d39351eb53b96",
+      "chainId": 128,
+      "decimals": 8
+    },
+    {
+      "name": "Skrumbel-Network",
+      "symbol": "SKM",
+      "address": "0x96674f8da3F9c6ACb4A56b393AF9A490D70D16d0",
+      "chainId": 128,
+      "decimals": 8
+    },
+    {
+      "name": "SWFT Blockchain Token",
+      "symbol": "SWFTC",
+      "address": "0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3",
+      "chainId": 128,
+      "decimals": 8
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Huobi-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT.png"
+    },
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0x70D171d269D964d14aF9617858540061e7bE9EF1",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "/images/coins/WBTC.png"
+    },
+    {
+      "name": "WHT Token",
+      "symbol": "WHT",
+      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "address": "0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "YFII.finance Token",
+      "symbol": "YFII",
+      "address": "",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "PentagonSwap Token",
+      "symbol": "PENTA",
+      "address": "0x6938F38644407C779293be6C83FB07d1cd232A83",
+      "chainId": 256,
+      "decimals": 18
+    }
+  ]
+}
