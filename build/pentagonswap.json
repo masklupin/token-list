@@ -1,6 +1,6 @@
 {
   "name": "PentagonSwap Default List",
-  "timestamp": "2021-04-28T13:59:45.231Z",
+  "timestamp": "2021-04-28T14:04:22.562Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -71,7 +71,8 @@
       "symbol": "ETH",
       "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
       "chainId": 128,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://hecoinfo.com/token/images/HETH_32.png"
     },
     {
       "name": "Ftx Token",

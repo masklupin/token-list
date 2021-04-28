@@ -26,7 +26,9 @@
     "symbol": "ETH",
     "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
     "chainId": 128,
-    "decimals": 18    },
+    "decimals": 18,
+    "logoURI": "https://hecoinfo.com/token/images/HETH_32.png"
+  },
   {
     "name": "Beacon ETH Token",
     "symbol": "BETH",
